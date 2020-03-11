@@ -1,0 +1,14 @@
+nombre,nota
+Ramon,100
+Manuel,50
+Maria,70
+Jose,40
+John,30
+Connor,40
+Mauricio,60
+Abraham,100
+Laura,40
+Oscar,60
+Norman,20
+Juana,80
+Juan,50
